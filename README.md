@@ -53,8 +53,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vikash-agarwal-5b82b92a4/
-- 📧 Email: agarwalsahil186@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vikash%20Agarwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-agarwal-5b82b92a4/)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwalsahil186@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/SAHIL12343)
 
 ---
 
