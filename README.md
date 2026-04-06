@@ -61,10 +61,6 @@
 
 ## 📊 GitHub Stats
 
-![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAHIL12343&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SAHIL12343&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=SAHIL12343&theme=tokyonight)
 
 ## 🧩 LeetCode Stats
